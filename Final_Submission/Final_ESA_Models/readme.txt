@@ -1,0 +1,1 @@
+Link to model training on google collab. https://colab.research.google.com/drive/1uHkgYo-HqZHKBkixYa2vS5osa_cfuc4c#scrollTo=cM6ovuhOYKXa
